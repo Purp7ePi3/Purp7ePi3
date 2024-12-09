@@ -7,4 +7,5 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Purp7ePi3&theme=nord" alt="GitHub Streak" /></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purp7ePi3)](https://github.com/Purp7ePi3/github-readme-stats)
 </div>
