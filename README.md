@@ -2,6 +2,4 @@
 ----
 [![trophy](https://github-profile-trophy.vercel.app/?username=Purp7ePi3&theme=nord&column=-1&title=-Joined2020)](https://github.com/Purp7ePi3/github-profile-trophy)
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Purp7ePi3)](https://git.io/streak-stats)
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Purp7ePi3&theme=nord" alt="GitHub Streak" /></a>
