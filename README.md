@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=Purp7ePi3)](https://github.com/Purp7ePi3/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Purp7ePi3&theme=onedark)](https://github.com/Purp7ePi3/github-profile-trophy)
+
 <!--
 **Purp7ePi3/Purp7ePi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
